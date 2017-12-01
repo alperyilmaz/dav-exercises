@@ -29,7 +29,7 @@ Is this question
 
 If you select `Inspired` or `Paraphrased` please provide the links in markdown format ( `[link](http://example.com)` ). Please provide **all** relevant links. You can refer to DataCamp course pages if you're inspired by them.
 
-## Level
+## Difficulty Level
 
 According to you, what is the level of difficulty of the question (**note:** this can be modified by instructor after submission)
 
