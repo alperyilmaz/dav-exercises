@@ -2,6 +2,20 @@
 
 This repository *will* contain exercises compiled by students. Exercise questions are mainly submitted by Data Analysis and Visualization course students @YTU. But this is a public repo, input from anybody is accepted.
 
+# What to submit
+
+Although there are many resources online for learning or practicing data analysis with R, best way to learn and embrace the code is to write code from scratch. In order to help anybody trying to learn `dplyr` and related tools, we are aiming to gather exercise questions. This project is inspired by [dplyr-100 repo](https://github.com/mrchypark/dplyr-100) (which is inspired by [numpy-100 repo](https://github.com/rougier/numpy-100))
+
+You are expected to submit questions (in order of decreasing preference) which are;
+
+* **an original question**: after going through many example codes and after much effort in coming up with a question which will allow user to exercise his/her knowledge, you submit an original question
+* **a modified question**: you find a nice exercise question and modify it for another data set
+* **a copy**: you find a very nice exercise question and you submit it directly
+
+For modified or copied questions, you have to provide links.
+
+For the students of Data Analysis and Visualization course, you'll get higher points for original questions and lower (or no) points for copy-pasted questions.  
+
 # How to submit an exercise question
 
 Please go to `Issues` tab and click `New issue` button. Then fill in the template.
