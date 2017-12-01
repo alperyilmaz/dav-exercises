@@ -12,7 +12,7 @@ Please fill in the form to submit an exercise question.
 
 ```
 
-Please attach necessary images by dragging them here.
+*About images*: If your question or solution contains an image, please attach necessary images by dragging them here or copy/pasting from clipboard. After the upload, a markdown style link to image will be generated for you.
 
 # Additional information
 
