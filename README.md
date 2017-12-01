@@ -9,10 +9,10 @@ Although there are many resources online for learning or practicing data analysi
 You are expected to submit questions (in order of decreasing preference) which are;
 
 * **an original question**: after going through many example codes and after much effort in coming up with a question which will allow user to exercise his/her knowledge, you submit an original question
-* **a modified question**: you find a nice exercise question and modify it for another data set
+* **an inspired question**: you find a nice exercise question and modify it for another data set, or you modify part of the question
 * **a copy**: you find a very nice exercise question and you submit it directly
 
-For modified or copied questions, you have to provide links.
+For inspired or copied questions, please provide links at which original question is located.
 
 For the students of Data Analysis and Visualization course, you'll get higher points for original questions and lower (or no) points for copy-pasted questions.  
 
