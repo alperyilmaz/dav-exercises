@@ -4,7 +4,7 @@ This repository *will* contain exercises compiled by students. Exercise question
 
 # What to submit
 
-Although there are many resources online for learning or practicing data analysis with R, best way to learn and embrace the code is to write code from scratch. In order to help anybody trying to learn `dplyr` and related tools, we are aiming to gather exercise questions. This project is inspired by [dplyr-100 repo](https://github.com/mrchypark/dplyr-100) (which is inspired by [numpy-100 repo](https://github.com/rougier/numpy-100))
+Although there are many resources online for learning or practicing data analysis with R, best way to learn and embrace the code is to write code from scratch. In order to help anybody trying to learn `dplyr`, `tidytext`, `broom` and related tools, we are aiming to gather exercise questions. This project is inspired by [dplyr-100 repo](https://github.com/mrchypark/dplyr-100) (which is inspired by [numpy-100 repo](https://github.com/rougier/numpy-100))
 
 You are expected to submit questions (in order of decreasing preference) which are;
 
