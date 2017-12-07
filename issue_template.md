@@ -43,4 +43,5 @@ Please provide comma separated list of dplyr verbs (e.g. `summarize`, `left join
 
 # Before submitting
 
-Please click `Preview` and preview your submission and check if it's rendered correctly
+* Please click `Preview` and preview your submission and check if it's rendered correctly
+* Please provide a simple title for the issue
