@@ -1,12 +1,10 @@
-# Exercise questions
+# Data analysis and visualization exercises with hint
 
-## Text mining
+This is a collection of exercises that have been collected to offer a quick
+reference for both students learning tidyverse or for those who teach.
 
-* What are most common *positive* (bing) word pairs that appeared in **same sentence** in Jane Austen books data? Please remove stop words before counting. (Refer to [#1](http://github.com/alperyilmaz/dav-exercises/issues/1)) for solution)
+## Text Mining 
 
-    hint:
+#### 1. What are most common *positive* (bing) word pairs that appeared in *same sentence* in Jane Austen books dataset? Please remove stop words before counting. (★★★) 
 
-    ```
-    * tokenize sentence first, keep sentence number then tokenize words
-    * answer: happy, love, 44 times
-    ```
+(**hint**: tokenize sentence first, keep sentence number then tokenize words. first line of answer is happy, love, 44. [solution](http://github.com/alperyilmaz/dav-exercises/issues/1))
