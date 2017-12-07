@@ -2,7 +2,7 @@
 
 ## Text mining
 
-* What are most common *positive* (bing) word pairs that appeared in **same sentence** in Jane Austen books data? Please remove stop words before counting. (Refer to [#1](/alperyilmaz/dav-exercises/issues/1) for solution)
+* What are most common *positive* (bing) word pairs that appeared in **same sentence** in Jane Austen books data? Please remove stop words before counting. (Refer to [#1](/issues/1) for solution)
 
     hint:
 
