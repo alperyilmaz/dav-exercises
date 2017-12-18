@@ -21,9 +21,11 @@ student_no|department|term|grade|letter_grade
 ```
 ## Join, group by and summarise
 
-#### 1. You need to go urgently from New York to Los Angeles and you would like to avoid delayed arrival of the airlines. You wish to know which *airline has the least average arrival delay* between *New York(JFK)* and *Los Angeles(LAX)* before getting a plane ticket. Please write a code to find out which airline has smallest average arrival delay to go from New York to Los Angeles. The output should have *full name* of the airlines and its average arrival delay 
+#### 1. Which airline has smallest average arrival delay to go from New York to Los Angeles (★★☆) 
 
-(**hint**: use `nycflights13` package, negative times represent early arrivals. [solution](http://github.com/alperyilmaz/dav-exercises/issues/8))
+You need to go urgently from New York to Los Angeles and you would like to avoid delayed arrival of the airlines. You wish to know which **airline has the least average arrival delay** between **New York(JFK)** and **Los Angeles(LAX)** before getting a plane ticket. Please write a code to find out which airline has smallest average arrival delay to go from New York to Los Angeles. The output should have **full name** of the airlines and its average arrival delay. 
+
+(**hint**: use `nycflights13` package, negative times represent early arrivals. full name of airlines is found in `airlines` table. [solution](http://github.com/alperyilmaz/dav-exercises/issues/8))
 
 ## Text Mining 
 
