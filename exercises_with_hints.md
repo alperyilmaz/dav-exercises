@@ -19,7 +19,13 @@ student_no|department|term|grade|letter_grade
 1600051|math|spring|2.7|C
 1600081|chem|spring|3.3|B
 ```
-## Join, group by and summarise
+## Data Munging - Single Table
+
+#### 1. Please find the chromosome which has the highest percentage of protein coding (*biotype*) genes (★★☆) 
+
+(**hint**: please use the human gene dataset([instructions](https://github.com/alperyilmaz/dav-exercises/issues/14)) and output should have chromosome name and percentage of protein coding genes on that chromosome. [solution](http://github.com/alperyilmaz/dav-exercises/issues/13))
+
+## Data Munging - Multiple Tables
 
 #### 1. Which airline has smallest average arrival delay to go from New York to Los Angeles (★★☆) 
 
